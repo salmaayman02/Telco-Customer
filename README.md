@@ -122,7 +122,7 @@ The analysis revealed that **contract length**, **tenure**, and **service bundle
 
 ## 📊 Power BI Dashboard
 
-![Power BI Dashboard ](dashboard.png)
+![Power BI Dashboard ](Dashboard.png)
 By offering **long-term contracts**, **multi-service discounts**, and **better support for high-risk customers**, the company can effectively reduce churn and strengthen customer loyalty.
 
 ---
