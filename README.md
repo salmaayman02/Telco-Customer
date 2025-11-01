@@ -117,14 +117,13 @@ The dataset contains detailed customer information including demographics, subsc
 ## Conclusion
 
 The analysis revealed that **contract length**, **tenure**, and **service bundles** play the most important roles in customer retention.
+By offering **long-term contracts**, **multi-service discounts**, and **better support for high-risk customers**, the company can effectively reduce churn and strengthen customer loyalty.
+
+---
 
 ---
 
 ## 📊 Power BI Dashboard
 
+
 ![Power BI Dashboard ](Dashboard.png)
-By offering **long-term contracts**, **multi-service discounts**, and **better support for high-risk customers**, the company can effectively reduce churn and strengthen customer loyalty.
-
----
-
-Would you like me to add a **"Visualizations Summary"** section (listing key charts used in the notebook) right after the EDA section? It makes the README look more complete for project presentation.
